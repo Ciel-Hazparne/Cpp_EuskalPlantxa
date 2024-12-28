@@ -1,4 +1,5 @@
-# Projet Euskal Plantxa 2023 : Partie Arduino/C++ par Ilyas
+# Projet Euskal Plantxa 2023 
+**Partie d'Ilyas (C++/Arduino), Antoine étant chargé du développement du Site Web**
 
 ## 1. Identification du travail à faire
 Dans ce projet, je dois programmer la carte Arduino Wemos afin de pouvoir lancer la cuisson en activant le relais et arrêter la plantxa en désactivant le relais. Je dois afficher le temps de cuisson de chaque client suite à une authentification avec un bouton poussoir, et une fois la cuisson lancée afficher le temps qui lui reste sur un afficheur matriciel. Une fois la cuisson finie, le temps restant doit être envoyé à la base de données.
